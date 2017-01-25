@@ -1,0 +1,5 @@
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\08.OddEvenSum\bin\Debug\08.OddEvenSum.exe.config
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\08.OddEvenSum\bin\Debug\08.OddEvenSum.exe
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\08.OddEvenSum\bin\Debug\08.OddEvenSum.pdb
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\08.OddEvenSum\obj\Debug\08.OddEvenSum.exe
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\08.OddEvenSum\obj\Debug\08.OddEvenSum.pdb

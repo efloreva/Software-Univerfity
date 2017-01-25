@@ -1,0 +1,5 @@
+D:\1 VS Projects\1. SoftUni\C1\7.AdvancedLoops\04.EvenPowersOf2\bin\Debug\04.EvenPowersOf2.exe.config
+D:\1 VS Projects\1. SoftUni\C1\7.AdvancedLoops\04.EvenPowersOf2\bin\Debug\04.EvenPowersOf2.exe
+D:\1 VS Projects\1. SoftUni\C1\7.AdvancedLoops\04.EvenPowersOf2\bin\Debug\04.EvenPowersOf2.pdb
+D:\1 VS Projects\1. SoftUni\C1\7.AdvancedLoops\04.EvenPowersOf2\obj\Debug\04.EvenPowersOf2.exe
+D:\1 VS Projects\1. SoftUni\C1\7.AdvancedLoops\04.EvenPowersOf2\obj\Debug\04.EvenPowersOf2.pdb

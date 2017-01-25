@@ -1,0 +1,6 @@
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\01.NumbersFrom1To100\bin\Debug\01.NumbersFrom1To100.exe.config
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\01.NumbersFrom1To100\bin\Debug\01.NumbersFrom1To100.exe
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\01.NumbersFrom1To100\bin\Debug\01.NumbersFrom1To100.pdb
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\01.NumbersFrom1To100\obj\Debug\01.NumbersFrom1To100.csprojResolveAssemblyReference.cache
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\01.NumbersFrom1To100\obj\Debug\01.NumbersFrom1To100.exe
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\01.NumbersFrom1To100\obj\Debug\01.NumbersFrom1To100.pdb

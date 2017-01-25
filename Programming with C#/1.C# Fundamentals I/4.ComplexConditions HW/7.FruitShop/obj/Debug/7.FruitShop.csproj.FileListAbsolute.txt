@@ -1,0 +1,6 @@
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\7.FruitShop\bin\Debug\7.FruitShop.exe.config
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\7.FruitShop\bin\Debug\7.FruitShop.exe
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\7.FruitShop\bin\Debug\7.FruitShop.pdb
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\7.FruitShop\obj\Debug\7.FruitShop.csprojResolveAssemblyReference.cache
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\7.FruitShop\obj\Debug\7.FruitShop.exe
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\7.FruitShop\obj\Debug\7.FruitShop.pdb

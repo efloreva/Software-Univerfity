@@ -1,0 +1,5 @@
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\2.SmallShop\bin\Debug\2.SmallShop.exe.config
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\2.SmallShop\bin\Debug\2.SmallShop.exe
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\2.SmallShop\bin\Debug\2.SmallShop.pdb
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\2.SmallShop\obj\Debug\2.SmallShop.exe
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\2.SmallShop\obj\Debug\2.SmallShop.pdb

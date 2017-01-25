@@ -1,0 +1,3 @@
+D:\1 VS Projects\1. SoftUni\C1\2. Second HW\HW2\7.RectangleArea2D\bin\Debug\7.2DRectangleArea.exe.config
+D:\1 VS Projects\1. SoftUni\C1\2. Second HW\HW2\7.RectangleArea2D\obj\Debug\7.2DRectangleArea.exe
+D:\1 VS Projects\1. SoftUni\C1\2. Second HW\HW2\7.RectangleArea2D\obj\Debug\7.2DRectangleArea.pdb

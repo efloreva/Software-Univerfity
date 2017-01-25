@@ -1,0 +1,5 @@
+D:\1 VS Projects\1. SoftUni\C1\2. Second HW\HW2\11.USDToBGN\bin\Debug\11.USDToBGN.exe.config
+D:\1 VS Projects\1. SoftUni\C1\2. Second HW\HW2\11.USDToBGN\bin\Debug\11.USDToBGN.exe
+D:\1 VS Projects\1. SoftUni\C1\2. Second HW\HW2\11.USDToBGN\bin\Debug\11.USDToBGN.pdb
+D:\1 VS Projects\1. SoftUni\C1\2. Second HW\HW2\11.USDToBGN\obj\Debug\11.USDToBGN.exe
+D:\1 VS Projects\1. SoftUni\C1\2. Second HW\HW2\11.USDToBGN\obj\Debug\11.USDToBGN.pdb

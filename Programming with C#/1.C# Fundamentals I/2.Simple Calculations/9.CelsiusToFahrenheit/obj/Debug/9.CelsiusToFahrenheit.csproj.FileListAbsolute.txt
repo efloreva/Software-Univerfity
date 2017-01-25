@@ -1,0 +1,5 @@
+D:\1 VS Projects\1. SoftUni\C1\2. Second HW\HW2\9.CelsiusToFahrenheit\bin\Debug\9.CelsiusToFahrenheit.exe.config
+D:\1 VS Projects\1. SoftUni\C1\2. Second HW\HW2\9.CelsiusToFahrenheit\bin\Debug\9.CelsiusToFahrenheit.exe
+D:\1 VS Projects\1. SoftUni\C1\2. Second HW\HW2\9.CelsiusToFahrenheit\bin\Debug\9.CelsiusToFahrenheit.pdb
+D:\1 VS Projects\1. SoftUni\C1\2. Second HW\HW2\9.CelsiusToFahrenheit\obj\Debug\9.CelsiusToFahrenheit.exe
+D:\1 VS Projects\1. SoftUni\C1\2. Second HW\HW2\9.CelsiusToFahrenheit\obj\Debug\9.CelsiusToFahrenheit.pdb

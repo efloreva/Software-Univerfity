@@ -1,0 +1,6 @@
+D:\1 VS Projects\1. SoftUni\C1\3.Simple Checks Operators HW\SimpleChecksOperators\14.TimePlus15Mins\bin\Debug\14.TimePlus15Mins.exe.config
+D:\1 VS Projects\1. SoftUni\C1\3.Simple Checks Operators HW\SimpleChecksOperators\14.TimePlus15Mins\bin\Debug\14.TimePlus15Mins.exe
+D:\1 VS Projects\1. SoftUni\C1\3.Simple Checks Operators HW\SimpleChecksOperators\14.TimePlus15Mins\bin\Debug\14.TimePlus15Mins.pdb
+D:\1 VS Projects\1. SoftUni\C1\3.Simple Checks Operators HW\SimpleChecksOperators\14.TimePlus15Mins\obj\Debug\14.TimePlus15Mins.csprojResolveAssemblyReference.cache
+D:\1 VS Projects\1. SoftUni\C1\3.Simple Checks Operators HW\SimpleChecksOperators\14.TimePlus15Mins\obj\Debug\14.TimePlus15Mins.exe
+D:\1 VS Projects\1. SoftUni\C1\3.Simple Checks Operators HW\SimpleChecksOperators\14.TimePlus15Mins\obj\Debug\14.TimePlus15Mins.pdb

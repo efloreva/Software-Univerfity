@@ -1,0 +1,6 @@
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\13.PointInFigure\bin\Debug\13.PointInFigure.exe.config
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\13.PointInFigure\bin\Debug\13.PointInFigure.exe
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\13.PointInFigure\bin\Debug\13.PointInFigure.pdb
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\13.PointInFigure\obj\Debug\13.PointInFigure.exe
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\13.PointInFigure\obj\Debug\13.PointInFigure.pdb
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\13.PointInFigure\obj\Debug\13.PointInFigure.csprojResolveAssemblyReference.cache

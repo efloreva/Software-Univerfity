@@ -1,0 +1,5 @@
+D:\1 VS Projects\1. SoftUni\C1\6.Drawing with Loops\04.TriangleOfCash\bin\Debug\04.TriangleOfCash.exe.config
+D:\1 VS Projects\1. SoftUni\C1\6.Drawing with Loops\04.TriangleOfCash\bin\Debug\04.TriangleOfCash.exe
+D:\1 VS Projects\1. SoftUni\C1\6.Drawing with Loops\04.TriangleOfCash\bin\Debug\04.TriangleOfCash.pdb
+D:\1 VS Projects\1. SoftUni\C1\6.Drawing with Loops\04.TriangleOfCash\obj\Debug\04.TriangleOfCash.exe
+D:\1 VS Projects\1. SoftUni\C1\6.Drawing with Loops\04.TriangleOfCash\obj\Debug\04.TriangleOfCash.pdb

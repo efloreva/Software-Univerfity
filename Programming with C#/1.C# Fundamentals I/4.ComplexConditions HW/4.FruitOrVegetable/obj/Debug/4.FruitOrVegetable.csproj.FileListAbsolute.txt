@@ -1,0 +1,5 @@
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\4.FruitOrVegetable\bin\Debug\4.FruitOrVegetable.exe.config
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\4.FruitOrVegetable\bin\Debug\4.FruitOrVegetable.exe
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\4.FruitOrVegetable\bin\Debug\4.FruitOrVegetable.pdb
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\4.FruitOrVegetable\obj\Debug\4.FruitOrVegetable.exe
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\4.FruitOrVegetable\obj\Debug\4.FruitOrVegetable.pdb

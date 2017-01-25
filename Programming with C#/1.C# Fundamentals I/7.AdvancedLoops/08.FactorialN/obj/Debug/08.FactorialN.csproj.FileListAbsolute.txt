@@ -1,0 +1,6 @@
+D:\1 VS Projects\1. SoftUni\C1\7.AdvancedLoops\08.FactorialN\bin\Debug\08.FactorialN.exe.config
+D:\1 VS Projects\1. SoftUni\C1\7.AdvancedLoops\08.FactorialN\bin\Debug\08.FactorialN.exe
+D:\1 VS Projects\1. SoftUni\C1\7.AdvancedLoops\08.FactorialN\bin\Debug\08.FactorialN.pdb
+D:\1 VS Projects\1. SoftUni\C1\7.AdvancedLoops\08.FactorialN\obj\Debug\08.FactorialN.csprojResolveAssemblyReference.cache
+D:\1 VS Projects\1. SoftUni\C1\7.AdvancedLoops\08.FactorialN\obj\Debug\08.FactorialN.exe
+D:\1 VS Projects\1. SoftUni\C1\7.AdvancedLoops\08.FactorialN\obj\Debug\08.FactorialN.pdb

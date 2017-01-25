@@ -1,0 +1,6 @@
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\12.Volleyball\bin\Debug\12.Volleyball.exe.config
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\12.Volleyball\obj\Debug\12.Volleyball.csprojResolveAssemblyReference.cache
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\12.Volleyball\bin\Debug\12.Volleyball.exe
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\12.Volleyball\bin\Debug\12.Volleyball.pdb
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\12.Volleyball\obj\Debug\12.Volleyball.exe
+D:\1 VS Projects\1. SoftUni\C1\4.ComplexConditions HW\12.Volleyball\obj\Debug\12.Volleyball.pdb

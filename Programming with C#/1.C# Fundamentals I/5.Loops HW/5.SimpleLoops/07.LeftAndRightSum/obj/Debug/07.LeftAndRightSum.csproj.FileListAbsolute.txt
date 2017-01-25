@@ -1,0 +1,5 @@
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\07.LeftAndRightSum\bin\Debug\07.LeftAndRightSum.exe.config
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\07.LeftAndRightSum\bin\Debug\07.LeftAndRightSum.exe
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\07.LeftAndRightSum\bin\Debug\07.LeftAndRightSum.pdb
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\07.LeftAndRightSum\obj\Debug\07.LeftAndRightSum.exe
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\07.LeftAndRightSum\obj\Debug\07.LeftAndRightSum.pdb

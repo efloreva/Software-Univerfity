@@ -1,0 +1,8 @@
+D:\1 VS Projects\1. SoftUni\C1\Nums 1-20\bin\Debug\Nums 1-20.exe.config
+D:\1 VS Projects\1. SoftUni\C1\Nums 1-20\bin\Debug\Nums 1-20.exe
+D:\1 VS Projects\1. SoftUni\C1\Nums 1-20\bin\Debug\Nums 1-20.pdb
+D:\1 VS Projects\1. SoftUni\C1\Nums 1-20\obj\Debug\Nums 1-20.exe
+D:\1 VS Projects\1. SoftUni\C1\Nums 1-20\obj\Debug\Nums 1-20.pdb
+D:\1 VS Projects\1. SoftUni\C1\1. First HW\Nums 1-20\bin\Debug\Nums 1-20.exe.config
+D:\1 VS Projects\1. SoftUni\C1\1. First HW\Nums 1-20\obj\Debug\Nums 1-20.exe
+D:\1 VS Projects\1. SoftUni\C1\1. First HW\Nums 1-20\obj\Debug\Nums 1-20.pdb

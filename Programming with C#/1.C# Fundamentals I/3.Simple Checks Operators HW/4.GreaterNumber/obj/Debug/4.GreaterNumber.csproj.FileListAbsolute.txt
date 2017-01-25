@@ -1,0 +1,5 @@
+D:\1 VS Projects\1. SoftUni\C1\3.Simple Checks Operators HW\SimpleChecksOperators\4.GreaterNumber\bin\Debug\4.GreaterNumber.exe.config
+D:\1 VS Projects\1. SoftUni\C1\3.Simple Checks Operators HW\SimpleChecksOperators\4.GreaterNumber\bin\Debug\4.GreaterNumber.exe
+D:\1 VS Projects\1. SoftUni\C1\3.Simple Checks Operators HW\SimpleChecksOperators\4.GreaterNumber\bin\Debug\4.GreaterNumber.pdb
+D:\1 VS Projects\1. SoftUni\C1\3.Simple Checks Operators HW\SimpleChecksOperators\4.GreaterNumber\obj\Debug\4.GreaterNumber.exe
+D:\1 VS Projects\1. SoftUni\C1\3.Simple Checks Operators HW\SimpleChecksOperators\4.GreaterNumber\obj\Debug\4.GreaterNumber.pdb

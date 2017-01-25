@@ -1,0 +1,5 @@
+D:\1 VS Projects\1. SoftUni\C1\3.Simple Checks Operators HW\SimpleChecksOperators\10.Number100-200\bin\Debug\10.Number100-200.exe.config
+D:\1 VS Projects\1. SoftUni\C1\3.Simple Checks Operators HW\SimpleChecksOperators\10.Number100-200\bin\Debug\10.Number100-200.exe
+D:\1 VS Projects\1. SoftUni\C1\3.Simple Checks Operators HW\SimpleChecksOperators\10.Number100-200\bin\Debug\10.Number100-200.pdb
+D:\1 VS Projects\1. SoftUni\C1\3.Simple Checks Operators HW\SimpleChecksOperators\10.Number100-200\obj\Debug\10.Number100-200.exe
+D:\1 VS Projects\1. SoftUni\C1\3.Simple Checks Operators HW\SimpleChecksOperators\10.Number100-200\obj\Debug\10.Number100-200.pdb

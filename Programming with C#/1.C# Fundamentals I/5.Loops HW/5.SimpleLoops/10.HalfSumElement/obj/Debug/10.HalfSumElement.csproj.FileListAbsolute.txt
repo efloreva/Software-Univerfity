@@ -1,0 +1,6 @@
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\10.HalfSumElement\bin\Debug\10.HalfSumElement.exe.config
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\10.HalfSumElement\bin\Debug\10.HalfSumElement.exe
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\10.HalfSumElement\bin\Debug\10.HalfSumElement.pdb
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\10.HalfSumElement\obj\Debug\10.HalfSumElement.csprojResolveAssemblyReference.cache
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\10.HalfSumElement\obj\Debug\10.HalfSumElement.exe
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\10.HalfSumElement\obj\Debug\10.HalfSumElement.pdb

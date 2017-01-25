@@ -1,0 +1,5 @@
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\03.LatinLetters\bin\Debug\03.LatinLetters.exe.config
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\03.LatinLetters\bin\Debug\03.LatinLetters.exe
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\03.LatinLetters\bin\Debug\03.LatinLetters.pdb
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\03.LatinLetters\obj\Debug\03.LatinLetters.exe
+D:\1 VS Projects\1. SoftUni\C1\5.Loops HW\5.SimpleLoops\03.LatinLetters\obj\Debug\03.LatinLetters.pdb

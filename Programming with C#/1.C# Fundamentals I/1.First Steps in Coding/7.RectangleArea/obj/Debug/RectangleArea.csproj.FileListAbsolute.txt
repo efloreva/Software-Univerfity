@@ -1,0 +1,5 @@
+D:\1 VS Projects\1. SoftUni\C1\RectangleArea\bin\Debug\RectangleArea.exe.config
+D:\1 VS Projects\1. SoftUni\C1\RectangleArea\bin\Debug\RectangleArea.exe
+D:\1 VS Projects\1. SoftUni\C1\RectangleArea\bin\Debug\RectangleArea.pdb
+D:\1 VS Projects\1. SoftUni\C1\RectangleArea\obj\Debug\RectangleArea.exe
+D:\1 VS Projects\1. SoftUni\C1\RectangleArea\obj\Debug\RectangleArea.pdb

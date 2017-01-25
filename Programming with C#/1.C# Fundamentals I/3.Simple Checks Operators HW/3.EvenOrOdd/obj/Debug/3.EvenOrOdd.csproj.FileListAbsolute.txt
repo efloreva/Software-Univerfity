@@ -1,0 +1,5 @@
+D:\1 VS Projects\1. SoftUni\C1\3.Simple Checks Operators HW\SimpleChecksOperators\3.EvenOrOdd\bin\Debug\3.EvenOrOdd.exe.config
+D:\1 VS Projects\1. SoftUni\C1\3.Simple Checks Operators HW\SimpleChecksOperators\3.EvenOrOdd\bin\Debug\3.EvenOrOdd.exe
+D:\1 VS Projects\1. SoftUni\C1\3.Simple Checks Operators HW\SimpleChecksOperators\3.EvenOrOdd\bin\Debug\3.EvenOrOdd.pdb
+D:\1 VS Projects\1. SoftUni\C1\3.Simple Checks Operators HW\SimpleChecksOperators\3.EvenOrOdd\obj\Debug\3.EvenOrOdd.exe
+D:\1 VS Projects\1. SoftUni\C1\3.Simple Checks Operators HW\SimpleChecksOperators\3.EvenOrOdd\obj\Debug\3.EvenOrOdd.pdb
